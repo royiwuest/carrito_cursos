@@ -1,0 +1,36 @@
+[
+    {   "nombre": "Inglés para adultos", 
+        "id": "001", 
+        "tipo": "Senior", 
+        "precio": 15000,  
+        "descripcion": "Duración: 5 meses. Lenguaje de uso general, comunicacional. Nivel Básico a intermedio."},
+
+    {   "nombre": "Inglés Jurídico", 
+        "id": "002", 
+        "tipo": "Senior", 
+        "precio": 20000, 
+        "descripcion": "Duración: 5 meses. Uso general y técnico. Nivel Intermedio a avanzado."},
+
+    {   "nombre": "Cursos Teen", 
+        "id": "003", "tipo": "Teen", 
+        "precio": 18000, 
+        "descripcion": "Duración: 5 meses. Combo de dos Idiomas (Inglés, Portugues, Francés). Nivel Básico."},
+
+    {   "nombre": "Nivel Inicial", 
+        "id": "004", "tipo": "Kids", 
+        "precio": 10000, 
+        "descripcion": "Duración: 5 meses. Nivel inicial de 3 a 5 años."},
+
+    {   "nombre": "Inglés para diseño gráfico", 
+        "id": "005", 
+        "tipo": "Teen", 
+        "precio": 12000, 
+        "descripcion": "Duración: 3 meses."},
+
+    {   "nombre": "Inglés y Arte", 
+        "id": "006", 
+        "tipo": "Teen", 
+        "precio": 12000, 
+        "descripcion": "Duración: 3 meses."}
+]
+
